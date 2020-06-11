@@ -5,7 +5,7 @@ main()
 	char G;
 	printf("Enter your Marks : ");
 	scanf("%d", &m);
-	if (m >= 85)
+	if (m >= 85&&m<=100)
 	{
 		G = 'A';
 	}
